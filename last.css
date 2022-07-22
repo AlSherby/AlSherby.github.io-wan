@@ -1,0 +1,26 @@
+body {
+  background-image: url(images-1/last.gif);
+  background-size: cover;
+}
+
+.btn {
+  display: block;
+
+  margin-top: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  transform: scale(1);
+  transition: 0.5s ease-in-out;
+}
+
+.btn:hover {
+  transform: scale(1.3);
+}

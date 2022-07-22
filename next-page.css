@@ -1,0 +1,160 @@
+body {
+  margin: 100px;
+  margin-left: 200px;
+  background: linear-gradient(#a2d2ff, #e79cba);
+  margin-right: 200px;
+}
+
+.cake {
+  text-align: center;
+  font-family: "Happy monkey", cursive;
+}
+.naman {
+  width: 500px;
+  height: 400px;
+  margin-left: 40px;
+  border-radius: 20px;
+  transition: 0.5s ease-in-out;
+  transform: scale(1);
+  box-shadow: 5px 5px 10px black;
+}
+.naman:hover {
+  transform: scale(1.3);
+}
+.sweet {
+  margin: 0;
+}
+.bati {
+  display: flex;
+  margin: 0;
+}
+.trio {
+  display: flex;
+  width: 500px;
+  border-radius: 15px;
+  transform: scale(1);
+  transition: 0.5s ease-in-out;
+  box-shadow: 5px 5px 10px black;
+  margin-right: 50px;
+}
+
+.trio:hover {
+  transform: scale(1.3);
+}
+
+.greet {
+  font-family: "Happy monkey", cursive;
+  width: 400px;
+  background: #ccd5ae;
+  padding-top: 70px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.sherby-not {
+  display: flex;
+  justify-content: right;
+}
+
+.you {
+  font-family: "Happy monkey", cursive;
+  margin-right: 100px;
+  margin-left: 70px;
+  width: 400px;
+  margin-top: 200px;
+  background: #ccd5ae;
+  padding: 50px 65px;
+  padding-left: 75px;
+  padding-top: 70px;
+  border-radius: 50%;
+  text-align: center;
+}
+.gift-1 {
+  width: 500px;
+  margin-top: 60px;
+  box-shadow: 5px 5px 5px black;
+  border-radius: 20px;
+}
+
+.kaaway {
+  width: 400px;
+  margin-top: 50px;
+  float: right;
+  border-radius: 15px;
+  transform: scale(1);
+  transition: 0.5s ease-in-out;
+  box-shadow: 5px 5px 10px black;
+}
+
+.kaaway:hover {
+  transform: scale(1.3);
+}
+
+.couple {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.jas {
+  width: 400px;
+  height: 400px;
+  border-radius: 20px;
+  transform: scale(1);
+  transition: 0.5s ease-in-out;
+  box-shadow: 5px 5px 10px black;
+}
+
+.jas:hover {
+  transform: scale(1.3);
+}
+
+.jas-2 {
+  width: 400px;
+  height: 400px;
+  border-radius: 20px;
+  transform: scale(1);
+  transition: 0.5s ease-in-out;
+  box-shadow: 5px 5px 10px black;
+}
+
+.jas-2:hover {
+  transform: scale(1.3);
+}
+
+.button {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.btn-1 {
+  font-size: 30px;
+  font-family: "Happy monkey", cursive;
+  border: 2px solid #222;
+  background: antiquewhite;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.btn-1:hover {
+  opacity: 0.6;
+}
+
+.btn-2 {
+  font-size: 30px;
+  font-family: "Happy monkey", cursive;
+  border: 2px solid #222;
+  background: antiquewhite;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.btn-2:hover {
+  opacity: 0.6;
+}
